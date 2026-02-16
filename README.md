@@ -102,7 +102,7 @@ Models were evaluated using:
 
 1. Clone the repository
    ```bashh
-   git clone https://github.com/your-username/spam-email-classifier.git
+   git clone https://github.com/Jai3502/spam-email-classifier.git
    
 2. Install required libraries
    ````bash
@@ -115,9 +115,8 @@ Models were evaluated using:
    nltk.download('stopwords')
    nltk.download('wordnet')
    
-4. Run the script
-  ````bash
-  python spam_email_classifier.py
+ 4. Run the script  
+    ````bash
+    python spam_email_classifier.py
 
-git clone https://github.com/your-username/spam-email-classifier.git
 
